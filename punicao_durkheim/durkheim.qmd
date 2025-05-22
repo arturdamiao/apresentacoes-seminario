@@ -1,0 +1,101 @@
+---
+title: Da divisão do trabalho social
+subtitle: Livro 1, capítulos 1, 2 e 3
+author: 
+  - Artur Damião
+thanks: "Resumo apresentado à disciplina de Poder, Punição e Controle sociail,ministrada pelo professor Marcos César Alvarez. E-mail para contato: arturcardoso@usp.br"
+date: 2025/05/17
+date-format: long
+lang: pt
+
+format: 
+  pdf: 
+    documentclass: article
+    papersize: a4
+#    classoption: [twocolumn]
+    geometry:
+      - top=20mm
+      - bottom=20mm
+      - left=20mm
+      - right=20mm
+      - heightrounded
+    colorlinks: true
+    linestretch: 1.3
+    fontsize: 11pt
+
+header-includes:
+  - \usepackage{sectsty}
+  - \allsectionsfont{\bfseries}
+  - \usepackage{fancyhdr}
+  - \pagestyle{fancy}
+  - \fancyhead{}\fancyfoot{}
+  - \fancyhf{}
+  - \fancyhead[LE]{\nouppercase{\rightmark\hfill\leftmark}}
+  - \fancyhead[RO]{\nouppercase{\leftmark\hfill\rightmark}}
+  - \rfoot{\thepage}
+  
+bibliography: references.bib
+link-citations: true
+csl: abnt2025.csl
+---
+
+
+## Capítulo 1 - Método para determinar essa função
+
+O patológico ajuda a compreender o fisiológico.
+
+Entender a função da divisão do trabalho social é buscar a necessidade a qual ela corresponde [@durkheim2015, p. 57]. 
+
+### I
+
+A divisão do trabalho é a fonte da civilização, porque ela permite aumentar ao mesmo tempo a força produtiva e a habilidade do trabalhador etc. Entretanto, ao observamos o número de crimes e suicídios, Durkheim percebe que eles aumentam à medida que as artes, as ciências e indústria progridem (em decorrência da divisão do trabalho).
+
+### II
+
+Os efeitos econômicos que a divisão do trabalho produz são poucos em relação ao efeito moral que ela produz. A verdadeira função da divisão do trabalho, para @durkheim2015, é produzir solidariedade. A solidariedade se dá a partir da diferença. Ou seja, a solidariedade é produzida a partir da distinção, que produz interdependência. @durkheim2015 [p. 68] indaga se a função da divisão do trabalho não é, portanto, integrar o corpo social e garantir a sua unidade. A divisão do trabalho é, pelo menos, uma das fontes da solidariedade social. A interpretação de que a divisão do trabalho como um fenômeno que vai além do fenômeno econômico foi percebida também por Comte. A partir dessa formulação, de que a solidariedade social deriva da divisão do trabalho, Durkheim objetiva verificar essa hipótese.
+
+### III
+
+Para nosso autor, é preciso verificar em que medida a solidariedade produzida pela divisão do trabalho contribui para a integração da sociedade, o quanto ela é essencial para a coesão social ou se é apenas uma condição acessória e secundária [@durkheim2015, p. 70]. Para tanto, é necessário comparar essa forma de vínculo social com os outros objetivando analisar a parte que corresponde à divisão do trabalho no efeito total. Inicia-se classificando os diferentes tipos de solidariedade social (conforme demonstrado em @durkheim2012).
+
+Como a solidari
+
+O estudo da solidariedade é um fato social que só se pode conhecer bem por meio dos seus efeitos sociais. O direito será utilizado como uma espécie de proxy da solidariedade social. Isso porque nosso autor tem certeza de encontrar no direito todas as variedades essenciais (as únicas que precisamos conhecer) da solidariedade social [@durkheim2015 p. 70]. Em geral, os costumes não se opõem ao direito, mas são, na verdade, a sua base.
+
+Durkheim propõe um método para identificar e medir as formas de solidariedade social a partir da análise do direito. Ele parte da premissa de que o direito reflete as principais formas de coesão social, ou seja, que os diferentes tipos de normas jurídicas correspondem a diferentes formas de solidariedade. Em relação aos fenômenos jurídicos, é necessário encontrar a característica mais essencial a eles, ou seja, a característica mais comum: o denominador comum dos fenômenos jurídicos. Para nosso autor, a característica mais comum é que todo preceito de direito pode ser definido: "uma regra de conduta sancionada" [@durkheim2015, p. 74]. Partindo desse preceito, nosso autor constata que a sanção varia conforme a gravidade atribuída aos próprios preceitos, o grau de importância que ocupam na consciência pública e o papel que desempenham na sociedade. A partir disso, Durkheim classifica em duas categorias de sanções. A sanção de tipo repressiva, o caso do direito penal, que objetiva essencialmente em causar dor; e a sanção que tem por objetivo atingir a sua fortuna, honra, vida, liberdade ou privação de algo que possui - implica no restabelecimento do estado das coisas. Ou seja, o "direito restitutivo", que abrange o direito civil, o direito comercial, o direito processual, o direito administrativo e constitucional, desconsiderando as regras penais nele encontradas. A partir daí, objetiva-se então, identificar as espécies de solidariedade social a eles associadas. Ele antecipa que deve existir um tipo específico de direito que simbolize a solidariedade produzida pela divisão do trabalho, ou seja, a solidariedade orgânica. Por fim, propõe um critério para medir a presença dessa solidariedade: comparar o volume total de normas jurídicas com a quantidade daquelas que expressam essa solidariedade derivada da especialização e interdependência funcional.
+
+## Capítulo II - Solidariedade mecânica ou por similitudes
+
+### I
+
+Inicialmente, Durkheim define o crime como sendo todo ato em que determina pena contra seu autor. Para entender a relação entre crime e pena, é necessário indagar-se qual a causa da pena ou, mais especificamente, em que se consiste essencialmente o crime [@durkheim2015 p. 75]. Para o autor, há diferentes espécies de crime, mas entre todas há algo em comum. Isso porque em toda sociedade há uma reação comum, que é a pena - independente do seu grau. "A unidade do efeito revela a unidade da causa". Os crimes afetam, independente de onde, a consciência moral de uma nação e produzem a mesma consequência - a pena.
+
+Durkheim se propõe a investigar o que consiste, em essência, o crime. Uma característica comum ao crime é que eles consistem em atos universalmente reprovados pelos membros de cada sociedade, salvo algumas exceções vistas adiante. Um fato em relação ao crime é, portanto, que ele ofende sentimento comum para um mesmo tipo social (uma sociedade industrial, uma sociedade primitiva e assim por diante). Os atos criminosos são comuns à média dos indivíduos da mesma sociedade.
+
+Para o autor, todo direito escrito possui um duplo objetivo: prescrever as obrigações e definir sanções vinculadas a elas [@durkheim2015 p.79]. Entretanto, nosso autor constata que nem toda a regra está expressamente formulada. Ele cita, por exemplo, que no direito penal não existe formalmente um ordenamento que diz para respeitar a vida do ouro, entretanto, condena à morte o assassino. Não faz de antemão como o direito civil: " Este é o dever", mas, sim, enuncia a pena "Esta é a pena". A questão para o autor é que se a ação é punida, é porque ela é contraria a uma regra obrigatória. Regra essa que não está expressamente formulada. Deduz-se daí que só pode haver uma razão para tanto: a regra é conhecida e aceita por todo o mundo.
+
+Nas sociedades primitivas (termos de Durkheim), o direito é inteiramente penal. Um elemento interessante da regra penal é sua clareza e precisão, bastante determinada. No direito civil, por exemplo, pode-se dizer que é preciso trabalhar, ter piedade etc., mas não é possível precisar o que nem como. O mesmo não é observado nas regras penais.
+
+Durkheim define a consciência coletiva ou consciência comum como sendo "o conjunto das crenças e dos sentimentos comuns à média dos membros de uma mesma sociedade forma um sistema determinado que tem vida própria" [@durkheim2015 p. 83]. Ela é, para o autor, o tipo psíquico da sociedade (com suas propriedades, condições de existência, modo de desenvolvimento etc.).
+
+Por fim, Durkheim define um ato criminoso como aquele que "ofende os estados fortes e definidos da consciência coletiva" [@durkheim2015 p.84]. Um ato não ofende a consciência coletiva porque é criminoso, mas sim é criminoso porque ofende a consciência coletiva. Ou seja, não o reprovamos porque é um crime, mas é um crime porque reprovamos [@durkheim2015 p. 85]. A partir dessa definição, Durkheim objetiva verificar se ela explica todas as características da pena.
+
+### II
+
+Neste trecho, o objetivo de Durkheim é investigar quais são as características da pena.
+
+A pena mudou de natureza, para Durkheim. Não é apenas para se vingar, é para se defender. A diferença da pena de outros tempos para as penas atuais é apenas o elevado grau de sofisticação e controle do seu efeito: os elementos essenciais da pena são os mesmos (autopreservação e defesa, tanto no caso da vingança - forma grosseira de pena - quanto no direito penal moderno), e a diferença está na constatação de que a pena moderna produz seus efeitos com mais consciência daquilo que ela é capaz de fazer [@durkheim2015 p. 90].
+
+Durkheim define a pena como sendo consistida de uma reação passional de intensidade graduada [@durkheim2015 p. 92]. A questão posta é: quem emana essa reação: o indivíduo ou a sociedade?
+
+### III
+
+A natureza dos sentimentos coletivos que explica a pena, e por fim, o crime.
+
+## Capítulo III
+
+### I
+
+Análise bla bla bla
+
+## Referência bibliográfica

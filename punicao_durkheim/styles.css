@@ -1,0 +1,27 @@
+/* Centraliza e amplia o bloco do diagrama */
+.mermaid-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
+
+/* Escala o SVG do Mermaid */
+.mermaid-container .mermaid svg {
+  width: 120% !important;
+  max-width: 1200px;
+  transform: scale(2.3);
+  transform-origin: top center;
+}
+
+/* Aumenta o tamanho da fonte dos textos nos nós */
+.mermaid text {
+  font-size: 30px !important;
+  font-family: sans-serif !important;
+}
+
+/* Aumenta o tamanho da fonte das setas/conexões */
+.mermaid .edgeLabel tspan {
+  font-size: 30px !important;
+  font-family: sans-serif !important;
+}
