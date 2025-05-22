@@ -24,6 +24,8 @@ format:
     fontsize: 11pt
 
 header-includes:
+  - \usepackage{changepage} % Para ajustar margens temporariamente
+  - \usepackage{setspace}   % Para controlar espaçamento entre linhas
   - \usepackage{sectsty}
   - \allsectionsfont{\bfseries}
   - \usepackage{fancyhdr}
@@ -58,15 +60,13 @@ Os efeitos econômicos que a divisão do trabalho produz são poucos em relaçã
 
 Para nosso autor, é preciso verificar em que medida a solidariedade produzida pela divisão do trabalho contribui para a integração da sociedade, o quanto ela é essencial para a coesão social ou se é apenas uma condição acessória e secundária [@durkheim2015, p. 70]. Para tanto, é necessário comparar essa forma de vínculo social com os outros objetivando analisar a parte que corresponde à divisão do trabalho no efeito total. Inicia-se classificando os diferentes tipos de solidariedade social (conforme demonstrado em @durkheim2012).
 
-Como a solidari
-
 O estudo da solidariedade é um fato social que só se pode conhecer bem por meio dos seus efeitos sociais. O direito será utilizado como uma espécie de proxy da solidariedade social. Isso porque nosso autor tem certeza de encontrar no direito todas as variedades essenciais (as únicas que precisamos conhecer) da solidariedade social [@durkheim2015 p. 70]. Em geral, os costumes não se opõem ao direito, mas são, na verdade, a sua base.
 
 Durkheim propõe um método para identificar e medir as formas de solidariedade social a partir da análise do direito. Ele parte da premissa de que o direito reflete as principais formas de coesão social, ou seja, que os diferentes tipos de normas jurídicas correspondem a diferentes formas de solidariedade. Em relação aos fenômenos jurídicos, é necessário encontrar a característica mais essencial a eles, ou seja, a característica mais comum: o denominador comum dos fenômenos jurídicos. Para nosso autor, a característica mais comum é que todo preceito de direito pode ser definido: "uma regra de conduta sancionada" [@durkheim2015, p. 74]. Partindo desse preceito, nosso autor constata que a sanção varia conforme a gravidade atribuída aos próprios preceitos, o grau de importância que ocupam na consciência pública e o papel que desempenham na sociedade. A partir disso, Durkheim classifica em duas categorias de sanções. A sanção de tipo repressiva, o caso do direito penal, que objetiva essencialmente em causar dor; e a sanção que tem por objetivo atingir a sua fortuna, honra, vida, liberdade ou privação de algo que possui - implica no restabelecimento do estado das coisas. Ou seja, o "direito restitutivo", que abrange o direito civil, o direito comercial, o direito processual, o direito administrativo e constitucional, desconsiderando as regras penais nele encontradas. A partir daí, objetiva-se então, identificar as espécies de solidariedade social a eles associadas. Ele antecipa que deve existir um tipo específico de direito que simbolize a solidariedade produzida pela divisão do trabalho, ou seja, a solidariedade orgânica. Por fim, propõe um critério para medir a presença dessa solidariedade: comparar o volume total de normas jurídicas com a quantidade daquelas que expressam essa solidariedade derivada da especialização e interdependência funcional.
 
 ## Capítulo II - Solidariedade mecânica ou por similitudes
 
-### I
+### I - Sobre a natureza do crime
 
 Inicialmente, Durkheim define o crime como sendo todo ato em que determina pena contra seu autor. Para entender a relação entre crime e pena, é necessário indagar-se qual a causa da pena ou, mais especificamente, em que se consiste essencialmente o crime [@durkheim2015 p. 75]. Para o autor, há diferentes espécies de crime, mas entre todas há algo em comum. Isso porque em toda sociedade há uma reação comum, que é a pena - independente do seu grau. "A unidade do efeito revela a unidade da causa". Os crimes afetam, independente de onde, a consciência moral de uma nação e produzem a mesma consequência - a pena.
 
@@ -80,22 +80,57 @@ Durkheim define a consciência coletiva ou consciência comum como sendo "o conj
 
 Por fim, Durkheim define um ato criminoso como aquele que "ofende os estados fortes e definidos da consciência coletiva" [@durkheim2015 p.84]. Um ato não ofende a consciência coletiva porque é criminoso, mas sim é criminoso porque ofende a consciência coletiva. Ou seja, não o reprovamos porque é um crime, mas é um crime porque reprovamos [@durkheim2015 p. 85]. A partir dessa definição, Durkheim objetiva verificar se ela explica todas as características da pena.
 
-### II
+### II - Sobre a natureza da pena
 
-Neste trecho, o objetivo de Durkheim é investigar quais são as características da pena.
+Neste trecho, o objetivo de Durkheim é investigar quais são as características da pena. 
 
-A pena mudou de natureza, para Durkheim. Não é apenas para se vingar, é para se defender. A diferença da pena de outros tempos para as penas atuais é apenas o elevado grau de sofisticação e controle do seu efeito: os elementos essenciais da pena são os mesmos (autopreservação e defesa, tanto no caso da vingança - forma grosseira de pena - quanto no direito penal moderno), e a diferença está na constatação de que a pena moderna produz seus efeitos com mais consciência daquilo que ela é capaz de fazer [@durkheim2015 p. 90].
+A pena mudou de natureza, para Durkheim. Não é apenas para se vingar, é para se defender. A diferença da pena de outros tempos para as penas atuais é apenas o elevado grau de sofisticação e controle do seu efeito: os elementos essenciais da pena são os mesmos (autopreservação e defesa, tanto no caso da vingança - forma grosseira de pena - quanto no direito penal moderno), e a diferença está na constatação de que a pena moderna produz seus efeitos com mais consciência daquilo que ela é capaz de fazer [@durkheim2015 p. 90]. 
 
-Durkheim define a pena como sendo consistida de uma reação passional de intensidade graduada [@durkheim2015 p. 92]. A questão posta é: quem emana essa reação: o indivíduo ou a sociedade?
+Durkheim define a pena como sendo consistida de uma reação passional de intensidade graduada [@durkheim2015 p. 92]. A questão posta é: quem emana essa reação: o indivíduo ou a sociedade?  
 
-### III
+### III - O caráter social da reação
 
-A natureza dos sentimentos coletivos que explica a pena, e por fim, o crime.
+Para o autor, o crime ofende, dentro de uma mesma sociedade, os sentimentos coletivos mais universais. De modo que, para Durkheim, "um simples restabelecimento da ordem perturbada não basta; é preciso uma satisfação mais violenta. A força contra a qual o crime se choca é demasiado intensa para reagir com tanta moderação [@durkheim2015, p. 100]". O sentimento coletivo representa a sociedade. Ofendê-lo, é, portanto, ofender a sociedade. 
 
-## Capítulo III
+Para ilustrar seu ponto, Durkheim comenta que basta ver, por exemplo, quando algum escândalo moral acontece numa cidade pequena. 
+
+"As pessoas param na rua, visitam-se umas às outras, encontram-se nos lugares combinados para falar do acontecimento e indignam-se coletivamente. De todas as impressões similares que se permutam, de todas as raivas que se exprimem, produz-se uma raiva única, mais ou menos determinada conforme o caso, que é de todos sem se de ninguém em particular. É a raiva pública [@durkheim2015, p. 103]".
+
+O crime, conforme o exemplo apresentado pelo autor, aproxima as consciências honestas e as concentra. Demonstra-se, portanto, o caráter social do crime. A partir disso, uma vez que a consciência coletiva é atingida, é preciso que seja ela a resistir, e é necessário que a resistência seja coletiva. 
+
+A natureza dos sentimentos coletivos que explica a pena, e por conseguinte, o crime [@durkheim2015 p. 104]. 
+
+### IV
+
+Por meio do método indutivo, Durkheim apresenta que a análise sobre a natureza da pena e também de sua reação confirmam a definição de crime. Isso porque o crime foi definido como "um ato contrário aos estados fortes e definidos da consciência coletiva" e todas as características da pena derivam da natureza do crime. Portanto, "as regras que ela (a pena) sanciona exprimem as similitudes sociais mais essenciais" [@durkheim2015 p. 105].
+
+A pena cumpre um papel bastante específico: "manter intacta a coesão social, preservando toda a sua vitalidade para a consciência coletiva". Os outros efeitos que ela produz, como corrigir o culpado ou intimidar os possíveis imitadores, são apenas efeitos secundários. Aliás, para @durkheim2015 [p. 107], esses efeitos secundários têm a eficácia bastante duvidosa e, no limite, são medíocres. O que está expresso neste trecho é justamente o caráter não aparente da pena: a primeira vista, serve reprimir, corrigir e/ou intimidar desviantes. Mas, na verdade, a função essencial da pena é a de manter a coesão social. 
+
+Durkheim afirma que a "punição destina-se sobretudo a agir sobre pessoas honestas; pois, uma vez que serve para curar as agressões cometidas contra os sentimentos coletivos, só pode cumprir tal papel nos casos em que tais sentimentos existam e desde que estejam vivos". 
+
+## Capítulo III - A solidariedade decorrente da divisão do trabalho ou orgânica
 
 ### I
 
-Análise bla bla bla
+Para Durkheim, a própria natureza da sanção restitutiva expressa que a solidariedade social correspondente a esse direito é de uma espécie completamente diferente. Ela não busca expiar, mas, sim, reparar. É de tal modo que "a indenização por perdas e danos não tem caráter penal; é apenas um meio de voltar ao passado para restituí-lo, tanto quanto possível, sob sua forma normal" [@durkheim2015 p. 109]. 
+
+A diferença essencial entre as relações mediadas pelo direito repressivo e o direito restitutivo é que, no primeiro caso, a consciência particular está diretamente vinculada à consciência coletiva, sem mediações. No segundo caso, as sociedades mediadas pelo direito restitutivo criam para si órgãos cada vez mais específicos e especializados: tribunais, conselhos de justiça do trabalho, tribunais administrativos dos mais variados tipos. É importante notar que a relação não se estabelece entre indivíduo e sociedade, mas sim entre essas partes restritas e especializadas da sociedade ligadas entre si pelas relações sociais [@durkheim2015 p. 112]. 
+
+### II - Sobre a solidariedade negativa
+
+Relação que produz solidariedade negativa é aquela que não contribui em nada para a unidade do corpo social. Exemplifica que as relações que nascem do delito (ou quase delito) têm esse mesmo caráter: o de apenas reparação entre as partes [@durkheim2015, p. 115].
+
+Novamente, para @durkheim2015 [p. 120], é no direito que que as relações sociais estão expressas em seus contornos mais gerais, que apresentam elementos comuns nas diferentes camadas da vida coletiva. 
+
+### III - O direito restitutivo como sistema nervoso 
+
+Durkheim faz uma analogia sobre o papel do direito restitutivo na sociedade, e o seu grau de especialização. O sistema nervoso   
+"tem como incumbência regular as diferentes funções do corpo, de modo que colaborem harmonicamente: assim ele exprime de modo bastante natural o estado da concentração a que chegou o organismo, em consequência do trabalho fisiológico. Desse modo, pelos diferentes níveis da escala animal, é possível medir o grau dessa concentração conforme o desenvolvimento do sistema nervoso. Significa também que é possível medir o grau de concentração a que chegou uma sociedade em decorrência da divisão do trabalho social, conforme o desenvolvimento do direito cooperativo com sanções restitutivas [@durkheim2015 p. 123]".
+
+### IV - A solidariedade positiva
+
+Neste trecho final, Durkheim define que a solidariedade positiva varia em dois tipos, e dois tipos somente: a solidariedade mecânica e a solidariedade orgânica. 
+1. A solidariedade mecânica liga os indivíduos diretamente, sem nenhum intermediário. Nesse tipo de sociedade, encontra-se um conjunto mais ou menos organizado de crenças comuns a todos os membros do grupo. Há forte presença da coletividade. Ela é tanto mais forte quanto mais as ideias e as tendências sejam comum a todos e se generalizem. Possui um caráter bastante energético.
+2. A solidariedade orgânica faz com que o indivíduo dependa da sociedade, porque ele depende das partes que a compões (suas instituições, órgãos etc.). Nesse tipo de solidariedade supõe que os indivíduos se diferenciem. Há uma maior presença da consciência individual. A atividade individual é muito mais especializada, e, por ser especializada, produz interdependência. 
 
 ## Referência bibliográfica
