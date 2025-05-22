@@ -39,41 +39,43 @@ bibliography: references.bib
 
 ## Proposta geral de Durkheim
 
-![](Editor _ Mermaid Chart-2025-05-22-122150.png){fig-align="center"}
+![](Editor%20_%20Mermaid%20Chart-2025-05-22-122150.png){fig-align="center"}
 
 # Capítulo 1 - O método para compreender a divisão do trabalho
 
 ## O método
-- Entender a função da divisão do trabalho social é buscar a necessidade a qual ela corresponde [@durkheim2015, p. 57].
 
-- É preciso verificar em que medida a solidariedade produzida pela divisão do trabalho contribui para a integração da sociedade, o quanto ela é essencial para a coesão social ou se é apenas uma condição acessória e secundária [@durkheim2015, p. 70]. Para tanto, é necessário comparar essa forma de vínculo social com os outros objetivando analisar a parte que corresponde à divisão do trabalho no efeito total.  
+-   Entender a função da divisão do trabalho social é buscar a necessidade a qual ela corresponde [@durkheim2015, p. 57].
 
-- Para isso, nosso autor mobiliza os conceitos apresentandos em *As regras do método sociológico* [@durkheim2012]. A verificação proposta se dará por meio do **método indutivo**.
+-   É preciso verificar em que medida a solidariedade produzida pela divisão do trabalho contribui para a integração da sociedade, o quanto ela é essencial para a coesão social ou se é apenas uma condição acessória e secundária [@durkheim2015, p. 70]. Para tanto, é necessário comparar essa forma de vínculo social com os outros objetivando analisar a parte que corresponde à divisão do trabalho no efeito total.
 
----
+-   Para isso, nosso autor mobiliza os conceitos apresentandos em *As regras do método sociológico* [@durkheim2012]. A verificação proposta se dará por meio do **método indutivo**.
 
-- O estudo da solidariedade é um fato social que só se pode conhecer bem por meio dos seus efeitos sociais. O direito será utilizado como uma espécie de proxy da solidariedade social. Isso porque nosso autor tem certeza de encontrar no direito todas as variedades essenciais (as únicas que precisamos conhecer) da solidariedade social [@durkheim2015 p. 70].
+------------------------------------------------------------------------
+
+-   O estudo da solidariedade é um fato social que só se pode conhecer bem por meio dos seus efeitos sociais. O direito será utilizado como uma espécie de proxy da solidariedade social. Isso porque nosso autor tem certeza de encontrar no direito todas as variedades essenciais (as únicas que precisamos conhecer) da solidariedade social [@durkheim2015 p. 70].
 
 # Capítulo 2 - Solidariedade mecânica ou por similitudes
 
 ## Sobre a natureza do crime
 
-- Durkheim define a consciência coletiva ou consciência comum como sendo "o conjunto das crenças e dos sentimentos comuns à média dos membros de uma mesma sociedade forma um sistema determinado que tem vida própria" [@durkheim2015 p. 83]. Ela é, para o autor, o tipo psíquico da sociedade (com suas propriedades, condições de existência, modo de desenvolvimento etc.). 
+-   Durkheim define a consciência coletiva ou consciência comum como sendo "o conjunto das crenças e dos sentimentos comuns à média dos membros de uma mesma sociedade forma um sistema determinado que tem vida própria" [@durkheim2015 p. 83]. Ela é, para o autor, o tipo psíquico da sociedade (com suas propriedades, condições de existência, modo de desenvolvimento etc.).
 
-- Um ato criminoso é aquele que "ofende os estados fortes e definidos da consciência coletiva" [@durkheim2015 p.84]. Um ato não ofende a consciência coletiva porque é criminoso, mas sim é criminoso porque ofende a consciência coletiva. Ou seja, não o reprovamos porque é um crime, mas é um crime porque reprovamos [@durkheim2015 p. 85].
+-   Um ato criminoso é aquele que "ofende os estados fortes e definidos da consciência coletiva" [@durkheim2015 p.84]. Um ato não ofende a consciência coletiva porque é criminoso, mas sim é criminoso porque ofende a consciência coletiva e, logo, geram uma reação punitiva. Ou seja, não o reprovamos porque é um crime, mas é um crime porque reprovamos [@durkheim2015 p. 85].
 
 ## Sobre a natureza da pena
 
-- A pena mudou de natureza, para Durkheim. Não é apenas para se vingar, é para se defender. A diferença da pena de outros tempos para as penas atuais é apenas o elevado grau de sofisticação e controle do seu efeito: os elementos essenciais da pena são os mesmos (autopreservação e defesa, tanto no caso da vingança - forma grosseira de pena - quanto no direito penal moderno), e a diferença está na constatação de que a pena moderna produz seus efeitos com mais consciência daquilo que ela é capaz de fazer [@durkheim2015 p. 90]. Ou seja, uma espécie de racionalização da pena. 
+-   A pena mudou de natureza, para Durkheim. Não é apenas para se vingar, é para se defender. A diferença da pena de outros tempos para as penas atuais é apenas o elevado grau de sofisticação e controle do seu efeito: os elementos essenciais da pena são os mesmos (autopreservação e defesa, tanto no caso da vingança - forma grosseira de pena - quanto no direito penal moderno), e a diferença está na constatação de que a pena moderna produz seus efeitos com mais consciência daquilo que ela é capaz de fazer [@durkheim2015 p. 90]. Ou seja, uma espécie de racionalização da pena.
 
-- **Durkheim define a pena como sendo consistida de uma reação passional de intensidade graduada [@durkheim2015 p. 92]**.
-  - A pena cumpre um papel bastante específico: "manter intacta a coesão social, preservando toda a sua vitalidade para a consciência coletiva". 
+-   **Durkheim define a pena como sendo consistida de uma reação passional de intensidade graduada [@durkheim2015 p. 92]**.
 
-# Capítulo 3 - Solidariedade decorrente da divisão do trabalho ou orgânica 
+    -   A pena cumpre um papel bastante específico: "manter intacta a coesão social, preservando toda a sua vitalidade para a consciência coletiva".
+
+# Capítulo 3 - Solidariedade decorrente da divisão do trabalho ou orgânica
 
 ## I -
 
-A diferença essencial entre as relações mediadas pelo direito repressivo e o direito restitutivo é que, no primeiro caso, a consciência particular está diretamente vinculada à consciência coletiva, sem mediações. No segundo caso, as sociedades mediadas pelo direito restitutivo criam para si órgãos cada vez mais específicos e especializados: tribunais, conselhos de justiça do trabalho, tribunais administrativos dos mais variados tipos. É importante notar que a relação não se estabelece entre indivíduo e sociedade, mas sim entre essas partes restritas e especializadas da sociedade ligadas entre si pelas relações sociais [@durkheim2015 p. 112]. 
+A diferença essencial entre as relações mediadas pelo direito repressivo e o direito restitutivo é que, no primeiro caso, a consciência particular está diretamente vinculada à consciência coletiva, sem mediações. No segundo caso, as sociedades mediadas pelo direito restitutivo criam para si órgãos cada vez mais específicos e especializados: tribunais, conselhos de justiça do trabalho, tribunais administrativos dos mais variados tipos. É importante notar que a relação não se estabelece entre indivíduo e sociedade, mas sim entre essas partes restritas e especializadas da sociedade ligadas entre si pelas relações sociais [@durkheim2015 p. 112].
 
 ## II - O direito restitutivo como sistema nervoso
 
@@ -81,8 +83,21 @@ Durkheim faz uma analogia sobre o papel do direito restitutivo na sociedade, e o
 
 > tem como incumbência regular as diferentes funções do corpo, de modo que colaborem harmonicamente: assim ele exprime de modo bastante natural o estado da concentração a que chegou o organismo, em consequência do trabalho fisiológico. Desse modo, pelos diferentes níveis da escala animal, é possível medir o grau dessa concentração conforme o desenvolvimento do sistema nervoso. Significa também que é possível medir o grau de concentração a que chegou uma sociedade em decorrência da divisão do trabalho social, conforme o desenvolvimento do direito cooperativo com sanções restitutivas [@durkheim2015, p. 123].
 
---- 
-- Nos capítulos subsequentes, Durkheim apresenta que à medida que os tipos individuais se desenvolvem e as tarefas se especializam, é possível observar a preponderância do direito cooperativo/restitutivo em relação ao direito repressivo. Além disso, [@durkheim2015 p. 131] avalia o direito nas sociedades primitivas e constata apresença de um direito predominantemente repressivo. Esse tipo de direito é comum onde os indivíduos são mais semelhantes entre si, logo, partilham com mais força de uma consciência coletiva. 
+------------------------------------------------------------------------
+
+-   Nos capítulos subsequentes, Durkheim apresenta que à medida que os tipos individuais se desenvolvem e as tarefas se especializam, é possível observar a preponderância do direito cooperativo/restitutivo em relação ao direito repressivo. Além disso, [@durkheim2015 p. 131] avalia o direito nas sociedades primitivas e constata apresença de um direito predominantemente repressivo. Esse tipo de direito é comum onde os indivíduos são mais semelhantes entre si, logo, partilham com mais força de uma consciência coletiva.
+
+# A atualidade do pensamento de Durkheim
+
+---
+
+-   Para @garland1990 [p. 34], o argumento principal de Durkheim era de que as características elementares identificadas nas sociedades mais primitivas ainda sustentam as práticas punitivas da atualidade. Uma questão que pode ser suscitada é:
+
+-   **Por que a violação da consciência coletiva gera, necessariamente, uma resposta punitiva?**
+
+---
+
+-   A resposta de Durkheim é que, como visto, apesar dos esforços de "racionalização" e instrumentalização da punição, a sua essência é irracional e passional, orientada pelo sentimento de violação da consciência. Ademais, a sua verdadeira função é a de manter a coesão social.
 
 # Obrigado!
 
